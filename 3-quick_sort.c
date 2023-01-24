@@ -15,8 +15,8 @@ void swap_ints(int *a, int *b)
 }
 
 /**
- * lomuto_partition - get subset of array of ints by 
- * 		    the lomuto partition scheme (last element as piv).
+ * lomuto_partition - get subset of array of ints by
+ * the lomuto partition scheme (last element as piv).
  * @array: array of ints.
  * @size: size of array.
  * @left: starting index of the subset to order.
